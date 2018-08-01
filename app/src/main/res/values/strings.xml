@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="ma_et_name">Name</string>
+    <string name="ma_et_age">Age</string>
+    <string name="ma_tv_gender">Gender</string>
+    <string name="ma_rd_male">Male</string>
+    <string name="ma_rd_female">Female</string>
+    <string name="ma_tv_preferences">Preferences</string>
+    <string name="ma_ch_donut">Donut</string>
+    <string name="ma_ch_pizza">Pizza</string>
+    <string name="ma_ch_cake">Cake</string>
+    <string name="ma_ch_toast">Toast</string>
+    <string name="ma_bt_ok">OK</string>
+    <string name="ma_toast_error">One or more fields is empty</string>
+    <string name="ma_others_gender">Others</string>
+</resources>

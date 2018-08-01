@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="ma_et_name">Nombre</string>
+    <string name="ma_et_age">Años</string>
+    <string name="ma_tv_gender">Género</string>
+    <string name="ma_rd_male">Masculino</string>
+    <string name="ma_rd_female">Feminino</string>
+    <string name="ma_tv_preferences">Preferencias</string>
+    <string name="ma_ch_donut">Rosquilla</string>
+    <string name="ma_ch_pizza">Pizza</string>
+    <string name="ma_ch_cake">Pastel</string>
+    <string name="ma_ch_toast">Tostada</string>
+    <string name="ma_bt_ok">OK</string>
+    <string name="ma_toast_error">Uno o más campos están vacíos</string>
+    <string name="ma_others_gender">Otros</string>
+</resources>
